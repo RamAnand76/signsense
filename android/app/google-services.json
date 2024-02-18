@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "479016766520",
+    "project_id": "signsense-56cc9",
+    "storage_bucket": "signsense-56cc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479016766520:android:343a4c8d47691327566acd",
+        "android_client_info": {
+          "package_name": "com.example.signsense"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaKeVUTdtiGd2QLl2KMohYavq2YCTHBBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
